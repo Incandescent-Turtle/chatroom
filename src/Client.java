@@ -19,9 +19,8 @@ public class Client extends Common
 	{
 
 		try{
-
 			showMessage("Attempting connection... \n");
-			connection = new Socket(InetAddress.getByName("192.168.1.81"), 6789);
+			connection = new Socket(InetAddress.getByName(serverIP), 6789);
 			showMessage("Connection Established! Connected to: " + connection.getInetAddress().getHostName());
 			setupStreams();
 			whileChatting();
