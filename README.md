@@ -1,6 +1,6 @@
 # 🛠️ Chatroom
 A chat app to talk to another user over a wifi connection. Keep in mind public networks will stop this app from functioning.  
-<a href="https://github.com/Incandescent-Turtle/chatroom/raw/main/ChatRoom.jar">Click to download runnable jar file</a>  
+<a href="https://github.com/Incandescent-Turtle/chatroom/raw/main/ChatRoom.jar">Click here to download runnable jar file</a>  
 ![example](https://user-images.githubusercontent.com/59327500/160265217-6dae4f4e-606a-45c3-a521-ecd3f2224f8a.gif)
 
 ---
